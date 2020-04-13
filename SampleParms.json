@@ -1,0 +1,9 @@
+{
+"TlfSender": "+6666666666",
+"TlfReceiver": "+77777777777",
+"AccountID": "AAAAAAAAAAAAAAAAAAAA",
+"AuthToken": "BBBBBBBBBBBBBBBBB",
+"MessageBreakfast": "Pastilles de l'esmorzar:..... Respon: ok",
+"MessageLunch": "Pastilles del dinar:.........Respon: ok",
+"MessageDinner": "Pastilles del sopar:.......Respon: ok"
+}
